@@ -1,5 +1,9 @@
 # InsightFlow AI — Feedback Intelligence & Business Decision Engine
 
+ve Demo: https://insightflow-ai-d6nw.onrender.com/
+
+An AI-powered feedback intelligence platform that transforms customer feedback into actionable business insights and recommendations.
+
 Built for **Build Battle 2026** by Frontend Arena.
 
 InsightFlow AI transforms unstructured customer reviews, surveys, and support tickets into evidence-backed business decisions using Google Gemini 3.8 Flash, deterministic risk scoring, and the Adaption Labs Adaptive Data pipeline.
